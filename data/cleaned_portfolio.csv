@@ -1,4 +1,4 @@
-reward,channels,difficulty,duration,offer_type,offer_id_portfolio
+reward,channels,difficulty,duration,offer_type,offer_id
 10,"['email', 'mobile', 'social']",10,7,bogo,ae264e3637204a6fb9bb56bc8210ddfd
 10,"['web', 'email', 'mobile', 'social']",10,5,bogo,4d5c57ea9a6940dd891ad53e9dbe8da0
 0,"['web', 'email', 'mobile']",0,4,informational,3f207df678b143eea3cee63160fa8bed
