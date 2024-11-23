@@ -18,6 +18,7 @@ Used Frameworks:
 - scikit-learn (was not used for the final outcome but was used to play around with my data)
 
 Data in this repository:
+'''
 .
 ├── README.md README ** file with the most important information **
 ├── Starbucks_Capstone_notebook.ipynb ** Jupyter Notebook where all steps from my Blog post were performed **
@@ -40,3 +41,4 @@ Data in this repository:
 │   └── offer_type_membership_duration.png
 ├── pic1.png ** file for description use **
 └── pic2.png ** file for description use **
+'''
